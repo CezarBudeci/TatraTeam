@@ -1,2 +1,2 @@
 # TatraTeam
-## Samantha Bergdahl
+## - Samantha Bergdahl
