@@ -1,2 +1,2 @@
 # TatraTeam
-## Jozef Visnovec
+## - Jozef Visnovec
